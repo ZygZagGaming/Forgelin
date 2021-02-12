@@ -1,4 +1,4 @@
-package net.shadowfacts.forgelin.preloader;
+package net.zygzag.forgelin.preloader;
 
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 
@@ -21,7 +21,7 @@ public class ForgelinPlugin implements IFMLLoadingPlugin {
 
 	@Override
 	public String getSetupClass() {
-		return "net.shadowfacts.forgelin.preloader.ForgelinSetup";
+		return "net.zygzag.forgelin.preloader.ForgelinSetup";
 	}
 
 	@Override

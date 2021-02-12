@@ -1,14 +1,14 @@
 [
 	{
 	  "modid": "forgelin",
-	  "name": "Shadowfacts' Forgelin",
+	  "name": "ZygZag's Forgelin",
 	  "version": "$version",
 	  "mcversion": "$mcversion",
 	  "description": "Kotlin helper library for Forge.",
-	  "credits": "Emberwalker, for the original Forgelin",
-	  "url": "https://github.com/shadowfacts/Forgelin",
+	  "credits": "Emberwalker, for the original Forgelin, and Shadowfacts for this code",
+	  "url": "https://github.com/ZygZagGaming/Forgelin",
 	  "updateUrl": "",
-	  "authorList": [ "shadowfacts" ],
+	  "authorList": [ "zygzag" ],
 	  "screenshots": []
 	}
 ]

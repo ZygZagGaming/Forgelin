@@ -1,4 +1,4 @@
-package net.shadowfacts.forgelin.preloader;
+package net.zygzag.forgelin.preloader;
 
 import net.minecraftforge.fml.relauncher.IFMLCallHook;
 

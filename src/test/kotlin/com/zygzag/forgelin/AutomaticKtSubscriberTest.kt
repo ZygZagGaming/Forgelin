@@ -1,4 +1,4 @@
-package net.shadowfacts.forgelin
+package net.zygzag.forgelin
 
 import net.minecraftforge.event.entity.player.PlayerInteractEvent
 import net.minecraftforge.event.entity.player.PlayerInteractEvent.RightClickBlock
@@ -6,7 +6,7 @@ import net.minecraftforge.fml.common.Mod
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent
 
-@Mod(modid = AutomaticKtSubscriberTest.MODID, modLanguageAdapter = "net.shadowfacts.forgelin.KotlinAdapter")
+@Mod(modid = AutomaticKtSubscriberTest.MODID, modLanguageAdapter = "net.zygzag.forgelin.KotlinAdapter")
 object AutomaticKtSubscriberTest {
 	const val MODID = "ktsubtest"
 

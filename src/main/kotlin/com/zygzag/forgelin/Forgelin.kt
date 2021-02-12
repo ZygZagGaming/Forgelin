@@ -1,4 +1,4 @@
-package net.shadowfacts.forgelin
+package net.zygzag.forgelin
 
 import net.minecraftforge.fml.common.FMLCommonHandler
 import net.minecraftforge.fml.common.Loader
